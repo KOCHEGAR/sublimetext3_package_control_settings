@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSScomb",
+		"eCSStractor",
+		"Emmet",
+		"Gist",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript Completions",
+		"Jinja2",
+		"jQuery Snippets pack",
+		"LESS",
+		"List stylesheet variables",
+		"LiveStyle",
+		"Material Theme",
+		"Nunjucks Syntax",
+		"Package Control",
+		"PHP Completions Kit",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SCSS Expander",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"W3CValidators",
+		"WordPress Completions"
+	]
+}
